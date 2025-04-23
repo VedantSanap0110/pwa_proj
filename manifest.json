@@ -1,0 +1,21 @@
+{
+  "name": "Shreyash Dhekane Portfolio",
+  "short_name": "Portfolio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#198754",
+  "description": "Personal portfolio of Shreyash Dhekane, IT Engineering Student",
+  "icons": [
+    {
+      "src": "img/profile.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/profile.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
